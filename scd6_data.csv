@@ -1,0 +1,5 @@
+SRR_Number,Type,Treatment
+SRR10311831,wild,wild_none
+SRR10311834,wild,wild_3%-urea
+SRR10311835,scd6[delta]ntd,scd6[delta]ntd_none
+SRR10311838,scd6[delta]ntd,scd6[delta]ntd_3%-urea 
